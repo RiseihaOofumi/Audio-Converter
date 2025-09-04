@@ -1,0 +1,21 @@
+# Ignore Python virtual environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# MacOS / Windows hidden files
+.DS_Store
+Thumbs.db
+
+# Audio conversion outputs (optional if you don't want to push converted files)
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.m4a
+*.aac
+*.wma
